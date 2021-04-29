@@ -1,4 +1,4 @@
-Hosted at: [http://marsbtyne.github.io/nycfridge](http://marsbtyne.github.io/nycfridge)
+Hosted at: [nycfridge.com](http://mwww.nycfridge.com)
 
 
 ## Available Scripts
