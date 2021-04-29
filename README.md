@@ -1,4 +1,4 @@
-Hosted at: [nycfridge.com](http://mwww.nycfridge.com)
+Hosted at: [nycfridge.com](http://www.nycfridge.com)
 
 
 ## Available Scripts
